@@ -1,0 +1,328 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1613" measuredH="1780" mockupW="1405" mockupH="1757">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="208" y="23" w="609" h="507" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CHECK%3A%20Welcome%21%0Ahttp%3A//CHECK.org/login</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="466" y="287" w="-1" h="-1" measuredW="69" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>kalmryde</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="466" y="330" w="76" h="-1" measuredW="69" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*********</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="281" y="125" w="-1" h="-1" measuredW="462" measuredH="101" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Untitled.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="508" y="384" w="-1" h="-1" measuredW="49" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <text>login</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="416" y="384" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10470904</color>
+        <text>Signup</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="389" y="290" w="81" h="-1" measuredW="72" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <italic>false</italic>
+        <state>up</state>
+        <text>%20%20Username</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="393" y="333" w="73" h="-1" measuredW="65" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>%20%20Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::FieldSet" x="382" y="263" w="-1" h="-1" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Arrow" x="567" y="350" w="407" h="47" measuredW="150" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="921" y="23" w="613" h="507" measuredW="450" measuredH="400" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CHECK%3A%20Where%20to%3F%0Ahttp%3A//CHECK.org/portal</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="1048" y="280" w="169" h="79" measuredW="141" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10027008</color>
+        <text>Proceed%20to%20MyChart</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="1283" y="278" w="160" h="82" measuredW="135" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <text>Proceed%20to%20CHECK</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Image" x="1008" y="125" w="-1" h="-1" measuredW="462" measuredH="101" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Untitled.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="208" y="600" w="609" h="577" measuredW="450" measuredH="400" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CHECK%3A%20Signup%0Ahttp%3A//CHECK.org/signup</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Arrow" x="347" y="411" w="69" h="295" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <stroke>dotted</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::FieldSet" x="281" y="713" w="469" h="416" measuredW="200" measuredH="170" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Sign%20up</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TextInput" x="416" y="760" w="-1" h="-1" measuredW="115" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20First%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Paragraph" x="337" y="775" w="88" h="346" measuredW="275" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20First%20Name%3A%0A%20%0A%20%20Last%20Name%3A%0A%20%0ADate%20of%20Birth%3A%0A%20%0A%20%20%20%20%20%20%20%20%20%20%20%20%20Age%3A%0A%20%0A%20%20%20%20%20%20%20%20Gender%3A%0A%20%0A%20%20%20%20%20%20%20%20%20%20%20Email%3A%0A%20%0A%20%0A%20%20%20%20username%3A%20%20%0A%20%0A%20%20%20%20%20password%3A%0A%20%20%0A%20%20%20%20%20%20Confrim%20%0A%20%20%20%20%20password%3A%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextInput" x="416" y="795" w="-1" h="-1" measuredW="116" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20Last%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextInput" x="416" y="930" w="-1" h="-1" measuredW="83" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20Email</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::ComboBox" x="416" y="863" w="-1" h="-1" measuredW="126" measuredH="24" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20your%20Age</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::ComboBox" x="416" y="898" w="-1" h="-1" measuredW="146" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20your%20Gender</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="868" y="600" w="651" h="581" measuredW="450" measuredH="400" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <text>CHECK%3A%20Welcome%20Back%21%0Ahttp%3A//CHECK.org/user/%3CYOU%3E</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Arrow" x="1421" y="357" w="45" h="255" measuredW="150" measuredH="100" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <stroke>dotted</stroke>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Webcam" x="883" y="698" w="57" h="55" measuredW="177" measuredH="146" zOrder="25" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::DateChooser" x="416" y="830" w="-1" h="-1" measuredW="90" measuredH="25" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextInput" x="416" y="972" w="-1" h="-1" measuredW="110" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20username</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::TextInput" x="416" y="1007" w="-1" h="-1" measuredW="107" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enter%20password</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::TextInput" x="416" y="1049" w="-1" h="-1" measuredW="120" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Confirm%20password</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="960" y="677" w="558" h="479" measuredW="200" measuredH="212" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <position>left</position>
+        <selectedIndex>1</selectedIndex>
+        <text>My%20Interventions%0A%20%20%20%20%20%20%20%20Depression%0A%20%20%20%20%20%20%20%20%20Sickle%20Cell%0A%20%20%20%20%20%20%20%20%20%20%20Diabetes%0A%20%20%20%20%20%20%20%20%20%20%20%20%20Asthma</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="1137" y="795" w="314" h="285" measuredW="300" measuredH="200" zOrder="31" locked="false" isInGroup="-1"/>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::PointyButton" x="1117" y="1100" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>12554240</color>
+        <direction>left</direction>
+        <newLayout>true</newLayout>
+        <text>Previous</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::PointyButton" x="1427" y="1100" w="-1" h="-1" measuredW="58" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>12554240</color>
+        <direction>right</direction>
+        <newLayout>true</newLayout>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Paragraph" x="1157" y="733" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>18</size>
+        <text>Why%20do%20I%20feel%20this%20way%3F%20%0AHow%20can%20I%20make%20it%20better%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="874" y="1202" w="645" h="578" measuredW="450" measuredH="400" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CHECK%3A%20Welcome%20Back%21%0Ahttp%3A//CHECK.org/user/%3CYOU%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Webcam" x="883" y="1294" w="57" h="55" measuredW="177" measuredH="146" zOrder="36" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="960" y="1273" w="558" h="479" measuredW="200" measuredH="212" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <position>left</position>
+        <selectedIndex>1</selectedIndex>
+        <text>My%20Interventions%0A%20%20%20%20%20%20%20%20Depression%0A%20%20%20%20%20%20%20%20%20Sickle%20Cell%0A%20%20%20%20%20%20%20%20%20%20%20Diabetes%0A%20%20%20%20%20%20%20%20%20%20%20%20%20Asthma</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::PointyButton" x="1117" y="1696" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>12554240</color>
+        <direction>left</direction>
+        <newLayout>true</newLayout>
+        <text>Previous</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::PointyButton" x="1427" y="1696" w="-1" h="-1" measuredW="58" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>12554240</color>
+        <direction>right</direction>
+        <newLayout>true</newLayout>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Paragraph" x="1117" y="1329" w="350" h="80" measuredW="275" measuredH="80" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>Based%20on%20the%20video%20you%20just%20watched%2C%20what%20are%20some%20health%20positive%20steps%20you%20can%20take%20towards%20taking%20care%20of%20yourself%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Arrow" x="1471" y="1121" w="34" h="215" measuredW="150" measuredH="100" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <stroke>dotted</stroke>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="1167" y="1431" w="-1" h="-1" measuredW="254" measuredH="215" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20all%20that%20apply%3A%20%0A%20%0A%5B%20%5D%20Ice%20cream.%20Lots%20and%20lots%20of%20ice%20cream%0A%5B%20%5D%20Staying%20in%20bed%20all%20day%0A%5Bx%5D%20Spending%20time%20with%20friends%20and%20family%0A%5Bx%5D%20Getting%20plenty%20of%20Exercise%0A%5B%20%5D%20Eating%20Healthy%0A%5Bx%5D%20Watching%20sad%20movies%0A%5B%20%5D%20Getting%20a%20good%20nights%20sleep%21%0A%5B%20%5D%20Rock%20and%20Roll%20All%20Night%2C%20Party%20every%20day</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Canvas" x="1136" y="1415" w="317" h="246" measuredW="100" measuredH="70" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::PieChart" x="1167" y="802" w="98" h="110" measuredW="180" measuredH="180" zOrder="44" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Webcam" x="1308" y="922" w="110" h="106" measuredW="177" measuredH="146" zOrder="45" locked="false" isInGroup="-1"/>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::ColumnChart" x="1157" y="938" w="103" h="95" measuredW="187" measuredH="175" zOrder="46" locked="false" isInGroup="-1"/>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Tooltip" x="1363" y="822" w="250" h="101" measuredW="251" measuredH="0" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Studies%20Show%20that%20Depression%20is%20a%20common%20disorder%20amongst%20youths%20ages%2013-24.%20You%20are%20not%20alone%21</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="208" y="1187" w="645" h="578" measuredW="450" measuredH="400" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CHECK%3A%20Welcome%20Back%21%0Ahttp%3A//CHECK.org/user/%3CYOU%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Webcam" x="217" y="1279" w="57" h="55" measuredW="177" measuredH="146" zOrder="49" locked="false" isInGroup="-1"/>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="294" y="1258" w="558" h="479" measuredW="200" measuredH="212" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <position>left</position>
+        <selectedIndex>0</selectedIndex>
+        <text>My%20Interventions%0A%20%20%20%20%20%20%20%20Depression%0A%20%20%20%20%20%20%20%20%20Sickle%20Cell%0A%20%20%20%20%20%20%20%20%20%20%20Diabetes%0A%20%20%20%20%20%20%20%20%20%20%20%20%20Asthma</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::LineChart" x="620" y="1308" w="207" h="157" measuredW="187" measuredH="175" zOrder="52" locked="false" isInGroup="-1"/>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::PieChart" x="440" y="1323" w="150" h="142" measuredW="180" measuredH="180" zOrder="53" locked="false" isInGroup="-1"/>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::ColumnChart" x="427" y="1524" w="163" h="178" measuredW="187" measuredH="175" zOrder="54" locked="false" isInGroup="-1"/>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Canvas" x="620" y="1477" w="222" h="225" measuredW="100" measuredH="70" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="643" y="1491" w="178" h="197" measuredW="146" measuredH="193" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>My%20Goals%3A%20%0A%5B%20%5D%20Finish%20HW%0A%5B%20%5D%20Go%20on%2015min%20walk%0A%5Bx%5D%20Only%20hit%20snooze%20once%21%0A%5Bx%5D%20Be%20in%20bed%20by%2010pm%21%0A%5B%20%5D%20Get%20an%20A%20on%20test%0A%5Bx%5D%20Ask%20X%20out%20on%20a%20date%0A%5B%20%5D%20List%205%20positive%20things%0A%5Bx%5D%20Love%20myself</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::TabBar" x="403" y="1258" w="450" h="480" measuredW="321" measuredH="100" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+        <selectedIndex>0</selectedIndex>
+        <text>Depression%2C%20Sickle%20Cell%2C%20Diabetes%2C%20Asthma</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Paragraph" x="1250" y="1699" w="113" h="21" measuredW="275" measuredH="80" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>%28page%202%20of%2012%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Paragraph" x="1250" y="1114" w="113" h="21" measuredW="275" measuredH="80" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <color>0</color>
+        <size>16</size>
+        <text>%28page%201%20of%2012%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
